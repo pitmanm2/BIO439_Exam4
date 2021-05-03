@@ -11,5 +11,5 @@ This is the python file for this assignment. It is run by calling it in the comm
 test_Exam4.py:  
 This is the test file, that tests all functions in the BIO439_Exam4.py file. Each function is test on the string given as an example on the handout, a short string, a long string, and a string containing all the same characters.  
 
-ecample_data.txt:  
+example_data.txt:  
 Example data file with a couple of short strings, this file can be called when running BIO439_Exam4.py.
